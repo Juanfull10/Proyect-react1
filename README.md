@@ -13,8 +13,13 @@ Este es un proyecto simple de lista de tareas desarrollado con **React + Vite**.
 - [React](https://reactjs.org/)
 - [Vite](https://vitejs.dev/)
 
-## 🎥 Video demo
+## 🎥 Imagen demo
 
-<video src="./demo.webm" controls width="600"></video>
+mostrar tareas
+![image](https://github.com/user-attachments/assets/dcd0fd6c-d81a-47bf-9127-4409e5168167)
+ocultar tareas generadas
+![image](https://github.com/user-attachments/assets/1b2913bf-66f0-47a7-990f-861745a6dc45)
+
+
 
 
